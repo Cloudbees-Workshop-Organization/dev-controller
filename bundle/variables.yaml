@@ -1,0 +1,4 @@
+variables:
+- team: Cloudbees-Workshop-Organization
+- admin-user: CWJoseph-admin
+- manager-user: CWJoseph
